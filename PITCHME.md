@@ -42,3 +42,12 @@
 ---
 ## Demo time!
 [link to demo](https://gist.github.com/chrstnb/d5bc61bfff8b4f40a631cbd3f4dab3be)
+
+---
+## Don't be a stranger
+Email me at cmbetts0321@gmail.com with any questions relating to...
+  Learning to programming
+  College
+  Work experience/resumes
+
+Other questions?
