@@ -45,7 +45,7 @@
 
 ---
 ## Don't be a stranger
-Email me at cmbetts0321@gmail.com with any questions relating to...
+Email me at [cmbetts0321@gmail.com](cmbetts0321@gmail.com) with any questions relating to...
   - Learning to programming
   - College
   - Work experience/resumes
