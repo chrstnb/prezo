@@ -47,5 +47,5 @@ Email me at [cmbetts0321@gmail.com](cmbetts0321@gmail.com) with any questions re
   - Learning to programming
   - College
   - Work experience/resumes
+
 Presentation is linked at [christinebetts.com/lsw](http://christinebetts.com/lsw)
-Other questions?
