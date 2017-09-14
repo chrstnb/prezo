@@ -28,7 +28,7 @@
 - Join the Cyber Patriots club!
 
 - Try to integrate some programming into your coursework, like using Processing (more on the next slide) in an art class or making a cool data visualization for a presentation
-
+---
 ## Things you can try on your own
 - Anything from [Beyond CS First](https://www.cs-first.com/en/beyond-cs-first)
 
@@ -37,3 +37,8 @@
 
 - Make a personal site on [Github](github.com)
   * The [JMcglone tutorial](http://jmcglone.com/guides/github-pages/) is especially good
+
+- Ask questions and reach out to people!
+---
+## Demo time!
+[link to demo](https://gist.github.com/chrstnb/d5bc61bfff8b4f40a631cbd3f4dab3be)
