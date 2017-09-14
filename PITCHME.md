@@ -19,8 +19,6 @@
 ---
 
 <div class="atlas-chart" data-id="B1rFqVkjl" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_B1rFqVkjl.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
-![image of why](vega.png)
-
 ---
 ## How you can try programming @ school
 - Consider taking computer science and web programming classes
