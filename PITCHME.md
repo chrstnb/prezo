@@ -2,7 +2,9 @@
 ### my experiences with it & how you can give it a try
 
 ---
-### About me
-- I tried programming for the first time about a year ago
-- I'm a computer engineering student at the University of Washington
-- This summer, I was an intern at Google
+## A little about me
+- undergrad computer engineering student at the university of washington in seattle
+
+- interned at google this past summer
+
+- started programming about a year ago (though I wish I'd started sooner!)
