@@ -8,3 +8,7 @@
 - interned at google this past summer
 
 - started programming about a year ago (though I wish I'd started sooner!)
+
+---
+## Why you should try programming
+- **There are tons of applications in every field**; you can use it in areas you're passionate about even if they're not not directly in the realm of technology
