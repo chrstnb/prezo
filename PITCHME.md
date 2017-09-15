@@ -50,3 +50,10 @@ Email me at [cmbetts0321@gmail.com](cmbetts0321@gmail.com) with any questions re
 <br/>
 Presentation is linked at [christinebetts.com/lsw](http://christinebetts.com/lsw)
 <br/>
+
+---
+## Life at Google
+- Work environment
+- Internships
+- Professional expectations
+- How to get your foot in the door
